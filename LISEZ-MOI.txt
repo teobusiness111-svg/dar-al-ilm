@@ -1,0 +1,30 @@
+DAR AL-ILM — Boutique de livres PDF islamiques
+
+FICHIERS
+- index.html : la boutique publique.
+- books.js : les livres, prix, liens Wave et numéro WhatsApp.
+- gestion.html : outil simple pour ajouter/supprimer des fiches et exporter books.js.
+
+AVANT PUBLICATION
+1. Ouvrez books.js dans un éditeur de texte.
+2. Remplacez 221XXXXXXXXX par votre numéro WhatsApp au format international.
+3. Remplacez les deux livres d'exemple par vos livres dont vous détenez les droits de distribution.
+4. Ajoutez les liens de paiement Wave officiels dans le champ waveLink de chaque livre, si vous en avez.
+5. N'indiquez jamais qu'un paiement est confirmé automatiquement : vérifiez le paiement avant d'envoyer le PDF.
+
+AJOUTER DES LIVRES
+1. Ouvrez gestion.html dans votre navigateur.
+2. Remplissez le formulaire et ajoutez les livres.
+3. Cliquez sur « Télécharger books.js ».
+4. Remplacez l'ancien fichier books.js par le nouveau sur votre hébergement.
+5. Republiez le site pour que les clients voient les changements.
+
+HÉBERGEMENT GRATUIT
+Vous pouvez publier les fichiers sur GitHub Pages (site statique gratuit). Créez un dépôt public, téléversez les trois fichiers à la racine, puis activez Pages dans les paramètres du dépôt.
+
+LIMITES IMPORTANTES
+- Le site est gratuit, mais les services de paiement peuvent facturer des frais de transaction.
+- Le lien Wave doit provenir de votre compte marchand / solution de paiement autorisée.
+- Orange Money est proposé via contact WhatsApp dans ce modèle ; ajoutez un lien de paiement Orange officiel si votre compte en fournit un.
+- Ce modèle ne confirme pas automatiquement les paiements et ne protège pas les PDF par une livraison sécurisée.
+- Ne vendez que des PDF que vous avez créés ou dont vous avez l'autorisation de distribution.
